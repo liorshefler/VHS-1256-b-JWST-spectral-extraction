@@ -1,5 +1,7 @@
 # VHS-1256-b-JWST-spectral-extraction
 
+# Goal: Reproduce Figure 2 in https://arxiv.org/pdf/2209.00620.pdf
+
 Download JWST data for VHS1256 b from MAST (https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html) 
 In the main MAST site, click "Advanced Search".
 Then select JWST among missions, then select only NIRSpec and MIRI among instruments. Then, provide the object name (Use a SIMBAD-recognizable name: SIPS J1256-1257)
