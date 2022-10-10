@@ -1,4 +1,4 @@
-# VHS-1256-b-JWST-spectral-extraction
+# VHS 1256 b JWST Spectral Extraction
 
 # Goal: Reproduce Figure 2 in https://arxiv.org/pdf/2209.00620.pdf
 
